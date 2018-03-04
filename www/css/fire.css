@@ -39,7 +39,7 @@ h1 {
 
 }
 
-#burg{
+#House{
     font-family: 'Montserrat', sans-serif;
     font-size: 25px;
     width:210px;
@@ -52,7 +52,7 @@ h1 {
 }
 
 
-#domestic{
+#Building{
     font-family: 'Montserrat', sans-serif;
     font-size: 25px;
     width:210px;
@@ -63,7 +63,7 @@ h1 {
     background-color:lightgray;
 }
 
-#assault{
+#Forest{
     font-family: 'Montserrat', sans-serif;
     font-size: 25px;
     width:210px;
@@ -74,9 +74,9 @@ h1 {
     background-color:lightgray;
 }
 
-#bt{
+#Gas{
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 25px;
     width:210px;
     border: 1px;
     height: 60px;
@@ -86,3 +86,4 @@ h1 {
 
 
 }
+
